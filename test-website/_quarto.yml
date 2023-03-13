@@ -1,4 +1,5 @@
 project:
+type: website 
   title: "test-website"
 
 

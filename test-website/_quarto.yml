@@ -1,6 +1,9 @@
 project:
-type: website 
-  title: "test-website"
+  type: website 
+  output-dir: docs 
 
+website:
+  title: "test-website"
+ 
 
 
